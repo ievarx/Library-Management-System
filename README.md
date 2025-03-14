@@ -20,7 +20,7 @@ This repository contains the **Library Management System**, a **university datab
 #### **⚙️ How to Run:**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/ievarx/library-management-system.git
    ```  
 2. **Install dependencies:**  
    Run the following command to install necessary dependencies:  
